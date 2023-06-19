@@ -1,10 +1,8 @@
 # cfsn
 Carvsel for social network.
 
- <!-- Сам код для виджетов -->
-  
-<link href="/cfsn/cfsn.css" rel="StyleSheet" type="text/css" /><script type="text/javascript" src="/cfsn/cfsn.js"></script>
-<div class="container">
+
+html:
 <ul class="tabs">
  <li><a href="#famInfo">1</a></li>
  <li><a href="#famAdd">2</a></li>
