@@ -2,7 +2,8 @@
 Carvsel for social network.
 
 
-html:
+Insert the following code in the `head` section of your pages:
+
 <ul class="tabs">
  <li><a href="#famInfo">1</a></li>
  <li><a href="#famAdd">2</a></li>
