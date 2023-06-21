@@ -11,3 +11,10 @@ html ul.tabs li.active,html ul.tabs li.active a:hover{background:#fff;border-bot
 .minipTdPic{text-decoration:none;background:#E6ECF1;vertical-align:middle;text-align:center;letter-spacing:0;word-spacing:0;border:1px solid #dcdcdc;}
 .minipTdUnColored{text-decoration:none;vertical-align:middle;text-align:center;letter-spacing:0;word-spacing:0;border:1px solid #dcdcdc;}
 a.textDec{font-weight:777;text-decoration:none;}
+
+.cete {
+  display: block;
+  margin: auto;
+  width: 100%;
+  text-align: center;
+  }
