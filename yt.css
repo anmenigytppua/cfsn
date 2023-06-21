@@ -1,10 +1,6 @@
 .yt {
   display: block;
   margin: auto;
-  width: 100%;
-  text-align: center;
-  }
-
-iframe {
   width: 690px;
+  text-align: center;
   }
