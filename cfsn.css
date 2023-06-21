@@ -1,7 +1,3 @@
-/*Copyright Famiosoft Corporation
-www.famiosoft.ru
-support@famiosoft.ru
-*/
 
 .container{width:700px;}
 ul.tabs{float:left;list-style:none;border-bottom:1px solid #999;border-left:1px solid #999;width:100%;margin:0;padding:0;}
@@ -15,7 +11,3 @@ html ul.tabs li.active,html ul.tabs li.active a:hover{background:#fff;border-bot
 .minipTdPic{text-decoration:none;background:#E6ECF1;vertical-align:middle;text-align:center;letter-spacing:0;word-spacing:0;border:1px solid #dcdcdc;}
 .minipTdUnColored{text-decoration:none;vertical-align:middle;text-align:center;letter-spacing:0;word-spacing:0;border:1px solid #dcdcdc;}
 a.textDec{font-weight:777;text-decoration:none;}
-
-/*
-Используеться код в проекте с 10.06.2022. Проект HetWidget не являеться создателем кода. Лиш в использование его. Спасиба автору.
-*/
