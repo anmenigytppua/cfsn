@@ -12,3 +12,23 @@ html ul.tabs li.active,html ul.tabs li.active a:hover{background:#fff;border-bot
 .minipTdUnColored{text-decoration:none;vertical-align:middle;text-align:center;letter-spacing:0;word-spacing:0;border:1px solid #dcdcdc;}
 a.textDec{font-weight:777;text-decoration:none;}
 
+.fb {
+  display: block;
+  margin: auto;
+  width: 500px;
+  text-align: center;
+  }
+
+.yt {
+  display: block;
+  margin: auto;
+  width: 690px;
+  text-align: center;
+  }
+
+.yt1 {
+  display: block;
+  margin: auto;
+  width: 690px;
+  text-align: center;
+  }
